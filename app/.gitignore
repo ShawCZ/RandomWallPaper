@@ -1,0 +1,16 @@
+File:
+local.properties
+/local.properties
+
+Directory:
+.gradle/
+.idea/
+/.idea/workspace.xml
+/.idea/libraries
+build/
+/build
+app/build/
+还有第三方依赖库的build文件夹
+
+Mask:
+*.iml
