@@ -37,5 +37,4 @@
     <style name="BarTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
 
     <style name="BarTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-
 </resources>
